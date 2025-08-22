@@ -26,7 +26,7 @@ This project is a web application for generating electronic invoices. This is an
 
 ## Screenshots
 
-<!-- TODO: Add screenshots if applicable -->
+![Alt text for your image](Web_based_E-Invoice_Generator.png)
 
 ## Features
 
